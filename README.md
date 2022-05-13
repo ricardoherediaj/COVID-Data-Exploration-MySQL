@@ -18,7 +18,7 @@
 - Total Population vs Vaccinations: Percentage of population that has received at least 1 dose of vaccine
 
 
-## Concepts learned and used
+## Concepts used
 
 - Joins
 - Group By
