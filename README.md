@@ -1,5 +1,6 @@
 ## COVID-19-Data-Exploration-with-MySQL Workbench: 
 
+In this project we conducted an exploratory analysis of the global impact of COVID-19 Deaths and Vaccinations in the population using MySQL Workbench.
 
 ## Resources
 
@@ -7,7 +8,7 @@
 - Data Source: https://ourworldindata.org/covid-deaths
 
 
-## Project's Goal: to conduct an exploratory analysis of COVID-19 Deaths and COVID-19 Vaccinations data using the following aspects: 
+## Queried Aspects: 
 
 - Total Cases vs Total Deaths
 - Total Cases vs Population
