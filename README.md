@@ -1,4 +1,4 @@
-## Covid-Data-Exploration-with-SQL: 
+## COVID-19-Data-Exploration-with-MySQL Workbench: 
 
 
 ## Resources
